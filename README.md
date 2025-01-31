@@ -1,8 +1,6 @@
 # Scrap Bot
 
-[![Build Status](https://img.shields.io/travis/com/yourusername/scrap_bot/main.svg?style=flat-square)](https://travis-ci.com/4kiro2kiro/scrap_bot)
-[![Coverage Status](https://img.shields.io/codecov/c/github/4kiro2kiro/scrap_bot.svg?style=flat-square)](https://codecov.io/gh/yourusername/scrap_bot)
-[![PyPI Version](https://img.shields.io/pypi/v/scrap_bot.svg?style=flat-square)](https://pypi.org/project/scrap_bot/)
+![Python 3](https://img.shields.io/badge/python-3-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 ## Description
