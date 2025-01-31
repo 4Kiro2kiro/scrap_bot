@@ -27,7 +27,26 @@ cd scrap_bot
 
 ## Configuration
 
-Before running the bot, you need to set up parameters for google driver or other.
+Before running the bot, you need to set up parameters for google driver :
+
+### Setting Up Selenium WebDriver with Google Chrome
+
+- 1. **Install Google Chrome**:
+   Download and install Google Chrome from [the official site](https://www.google.com/chrome/).
+
+- 2. **Download Chromedriver**:
+   Get the appropriate version of Chromedriver from [the official page](https://sites.google.com/chromium.org/driver/).
+
+- 3. **Install Chromedriver**:
+   Unzip and place Chromedriver in a directory included in your system's PATH.
+
+- 4. **Configure Your Script to Use Chromedriver**:
+   Ensure the path to `chromedriver` is used in your Python script or that it's included in your PATH.
+
+- 5. **Verify Installation**:
+   Test Chromedriver by running a Python script that opens Google Chrome and loads a page.
+
+These streamlined steps guide you through the necessary setup to use Selenium WebDriver with Google Chrome.
 
 ## Usage
 
