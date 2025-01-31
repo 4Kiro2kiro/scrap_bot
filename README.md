@@ -1,2 +1,47 @@
-# scrap_bot
-a bot to make money with solana meme crypto
+# Scrap Bot
+
+## Description
+Scrap Bot is an automated bot designed to engage with Solana meme cryptocurrency to generate profits. This bot utilizes automated trading strategies to buy and sell cryptocurrency under optimal market conditions.
+
+## Features
+- **Market Analysis**: Scans the cryptocurrency market to detect price trends of Solana.
+- **Automated Trading**: Executes buy and sell orders based on predefined algorithms and trading signals.
+- **Risk Management**: Limits potential losses with an integrated risk management system.
+- **Reports and Notifications**: Provides real-time updates through notifications about performed actions and portfolio status.
+
+## Technologies Used
+- Python 3.8: The main programming language.
+- CCXT: A library used to connect the bot to cryptocurrency exchanges.
+- Pandas & NumPy: For data processing and mathematical calculations.
+
+## Installation
+To install Scrap Bot, follow the instructions below:
+```bash
+git clone https://github.com/yourusername/scrap_bot.git
+cd scrap_bot
+pip install -r requirements.txt
+```
+
+## Configuration
+
+Before running the bot, you need to set up parameters for google driver or other.
+
+## Usage
+
+To start the bot, run:
+
+```bash
+python main.py
+```
+
+## Contributions
+
+Contributions are welcome. To contribute to the project, please fork the repository, create a branch for your changes, and submit a pull request.
+
+## License
+
+This project is distributed under the MIT License. See the LICENSE file for more information.
+
+## Contact
+
+For any inquiries, please email 4kiro2kiro@gmail.com
