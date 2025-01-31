@@ -77,7 +77,7 @@ If the *cloudflare* captcha doesn't **work**, first launch google manually and g
 Scrap Bot operates by automating interactions with cryptocurrency markets using the Selenium WebDriver. Here is an overview of the key steps:
 
 1. **Initialization**:
-   - The bot starts and initializes its settings by loading parameters from the `config.json` file which contains essential information such as API keys, trading preferences, and browser configurations.
+   - The bot starts by initializing its settings directly within the code, setting up API keys, trading preferences, and browser configurations manually.
 
 2. **Market Connection**:
    - Using Selenium, the bot opens a session in Google Chrome and connects to the trading platform where it will execute transactions. This includes navigating to specific pages and authenticating if necessary.
