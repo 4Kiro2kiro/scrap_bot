@@ -68,6 +68,10 @@ And after:
 python main.py
 ```
 
+## ⚠️ Important ⚠️
+
+If the *cloudflare* captcha doesn't **work**, first launch google manually and go to the dex website ![Here](https://dexscreener.com/new-pairs), re-solder the captcha and then relaunch the bot !
+
 ## Contributions
 
 Contributions are welcome. To contribute to the project, please fork the repository, create a branch for your changes, and submit a pull request.
