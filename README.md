@@ -19,7 +19,6 @@ To install Scrap Bot, follow the instructions below:
 ```bash
 git clone https://github.com/yourusername/scrap_bot.git
 cd scrap_bot
-pip install -r requirements.txt
 ```
 
 ## Configuration
@@ -29,6 +28,12 @@ Before running the bot, you need to set up parameters for google driver or other
 ## Usage
 
 To start the bot, run:
+
+```bash
+source venv_environment/bin/activate/
+```
+
+And after
 
 ```bash
 python main.py
