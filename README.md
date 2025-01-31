@@ -1,4 +1,4 @@
-# Scrap Bot
+<h1 align="center">Scrap Bot</h1>
 
 ![Python 3](https://img.shields.io/badge/python-3-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
