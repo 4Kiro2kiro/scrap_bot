@@ -72,6 +72,33 @@ python main.py
 
 If the *cloudflare* captcha doesn't **work**, first launch google manually and go to the dex website [here](https://dexscreener.com/new-pairs), re-solder the captcha and then relaunch the bot !
 
+## How Does It Work?
+
+Scrap Bot operates by automating interactions with cryptocurrency markets using the Selenium WebDriver. Here is an overview of the key steps:
+
+1. **Initialization**:
+   - The bot starts and initializes its settings by loading parameters from the `config.json` file which contains essential information such as API keys, trading preferences, and browser configurations.
+
+2. **Market Connection**:
+   - Using Selenium, the bot opens a session in Google Chrome and connects to the trading platform where it will execute transactions. This includes navigating to specific pages and authenticating if necessary.
+
+3. **Market Monitoring**:
+   - The bot monitors cryptocurrency prices in real-time and applies trend detection algorithms to identify potential trading opportunities.
+
+4. **Executing Transactions**:
+   - When a trading opportunity meets the defined criteria, the bot automatically executes buy or sell orders based on trading signals. This step is crucial and requires a rapid response to market changes.
+
+5. **Risk Management**:
+   - To minimize risks, the bot employs predefined risk management strategies such as stop-loss and take-profit orders to protect the invested capital.
+
+6. **Reporting**:
+   - At the end of each trading session, the bot generates a performance report detailing executed trades, profits and losses, and other relevant statistics. All this information is stored in a `data.txt` file for record-keeping and further analysis.
+
+7. **Shutdown**:
+   - After the trading session, the bot closes all active connections and terminates cleanly, ensuring all resources are released.
+
+This automated process allows Scrap Bot to operate 24/7, thus maximizing trading opportunities without the need for constant human intervention.
+
 ## Contributions
 
 Contributions are welcome. To contribute to the project, please fork the repository, create a branch for your changes, and submit a pull request.
