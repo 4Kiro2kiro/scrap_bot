@@ -37,7 +37,7 @@ To start the bot, if you are on **linux**, run:
 source venv_environment/bin/activate/
 ```
 
-If you are in **windows**, run:
+If you are on **windows**, run:
 
 ```bash
 pip install -r requirements.txt
