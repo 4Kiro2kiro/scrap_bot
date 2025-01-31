@@ -70,7 +70,7 @@ python main.py
 
 ## ⚠️ Important ⚠️
 
-If the *cloudflare* captcha doesn't **work**, first launch google manually and go to the dex website ![Here](https://dexscreener.com/new-pairs), re-solder the captcha and then relaunch the bot !
+If the *cloudflare* captcha doesn't **work**, first launch google manually and go to the dex website [here](https://dexscreener.com/new-pairs), re-solder the captcha and then relaunch the bot !
 
 ## Contributions
 
