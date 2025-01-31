@@ -31,10 +31,16 @@ Before running the bot, you need to set up parameters for google driver or other
 
 ## Usage
 
-To start the bot, run:
+To start the bot, if you are on linux, run:
 
 ```bash
 source venv_environment/bin/activate/
+```
+
+If you are in windows, run:
+
+```bash
+pip install -r requirements.txt
 ```
 
 And after:
