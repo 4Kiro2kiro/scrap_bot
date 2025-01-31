@@ -13,7 +13,7 @@ Scrap Bot is an automated bot designed to engage with Solana meme cryptocurrency
 - **Reports and Notifications**: Provides real-time updates through notifications about performed actions and portfolio status.
 
 ## Technologies Used
-- Python 3.8: The main programming language.
+- Python 3.11: The main programming language.
 - CCXT: A library used to connect the bot to cryptocurrency exchanges.
 - Pandas & NumPy: For data processing and mathematical calculations.
 
