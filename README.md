@@ -1,5 +1,10 @@
 # Scrap Bot
 
+[![Build Status](https://img.shields.io/travis/com/yourusername/scrap_bot/main.svg?style=flat-square)](https://travis-ci.com/4kiro2kiro/scrap_bot)
+[![Coverage Status](https://img.shields.io/codecov/c/github/4kiro2kiro/scrap_bot.svg?style=flat-square)](https://codecov.io/gh/yourusername/scrap_bot)
+[![PyPI Version](https://img.shields.io/pypi/v/scrap_bot.svg?style=flat-square)](https://pypi.org/project/scrap_bot/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 ## Description
 Scrap Bot is an automated bot designed to engage with Solana meme cryptocurrency to generate profits. This bot utilizes automated trading strategies to buy and sell cryptocurrency under optimal market conditions.
 
@@ -16,8 +21,9 @@ Scrap Bot is an automated bot designed to engage with Solana meme cryptocurrency
 
 ## Installation
 To install Scrap Bot, follow the instructions below:
+
 ```bash
-git clone https://github.com/yourusername/scrap_bot.git
+git clone https://github.com/4Kiro2Kiro/scrap_bot.git
 cd scrap_bot
 ```
 
@@ -33,7 +39,7 @@ To start the bot, run:
 source venv_environment/bin/activate/
 ```
 
-And after
+And after:
 
 ```bash
 python main.py
@@ -46,6 +52,8 @@ Contributions are welcome. To contribute to the project, please fork the reposit
 ## License
 
 This project is distributed under the MIT License. See the LICENSE file for more information.
+
+Happy trading with Scrap Bot!
 
 ## Contact
 
