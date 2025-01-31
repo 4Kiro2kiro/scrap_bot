@@ -1,7 +1,7 @@
 <h0 align="center">Scrap Bot</h0>
 
-<h1 align="center">![Python 3](https://img.shields.io/badge/python-3-blue.svg)</h1>
-<h2 align="center">![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)</h2>
+![Python 3](https://img.shields.io/badge/python-3-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 ## Description
 Scrap Bot is an automated bot designed to engage with Solana meme cryptocurrency to generate profits. This bot utilizes automated trading strategies to buy and sell cryptocurrency under optimal market conditions.
